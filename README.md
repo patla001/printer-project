@@ -49,3 +49,4 @@ python pySetupPrinter.py 194.1.2.31 8080
   ---------------------------------------------------
 
 Select one of the cases:[Type the desire case, then hit Enter]
+![Terminal](https://github.com/patla001/printer-project/assets/61665400/cc08c98b-81ed-48f5-b3f4-6b9da2c4474a)
