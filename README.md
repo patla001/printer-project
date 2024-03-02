@@ -10,7 +10,7 @@ The port has to be 8080.
 python pySetupDune.py [IP Address] [Port]
 
 Example:
-python pySetupDune.py 194.1.2.31 8080  
+python pySetupPrinter.py 194.1.2.31 8080  
 [Enter]
   
   {'IP': '194.1.2.31', 'Port': '8080'}
