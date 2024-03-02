@@ -1,4 +1,4 @@
-# Setup-Dune
+# Setup-Printer
 Pre-Onboarding and Set up the Persona, Stack, and Permanent UCDE Dev Mode
 To run the script you need Python 3.11.3 and above. 
 Please find the link to download the program: https://www.python.org/downloads/windows/
